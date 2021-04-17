@@ -23,9 +23,9 @@ layout: default
 
 You can find our previous workshops including the code samples and recordings, where available, on our [workshops page]().
 
-# Join our Mailing List
+# Connect with us
 
-Interested in getting updates from us on upcoming workshops? Join our [mailing list](https://tech.us19.list-manage.com/subscribe?u=29a4e588ed2a6dce8a79fe97a&id=0fe8932d9b)!
+Interested in getting updates from us on upcoming workshops? Join our [mailing list](https://tech.us19.list-manage.com/subscribe?u=29a4e588ed2a6dce8a79fe97a&id=0fe8932d9b)! You can also find us on [Github](https://github.com/rockyMountainDataScience), [Twitter](https://twitter.com/RockyMntnData), and [LinkedIn](https://www.linkedin.com/company/rocky-mountain-data-science/about/).
 
 # Who We Are
 
